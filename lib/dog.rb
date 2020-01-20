@@ -5,7 +5,7 @@ class Dog
   def initialize(id=nil, name, breed)
     @id = id
     @name = name
-    @album = album
+    @breed = breed
   end
   
 end
